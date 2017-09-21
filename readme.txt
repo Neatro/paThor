@@ -1,4 +1,6 @@
-ìnclude this lib in your code
+Include this lib in your code.
+
+functions are explained inside the code.
 
 to test if it works, run it and if done right, gives output:
 
@@ -18,3 +20,5 @@ P2 4
 Path = [1,2,3,4]
 
 the settings table ontop is for debugging purposes and will turnoff the printing and visualisation of paThor.
+
+please do not claim as your own.

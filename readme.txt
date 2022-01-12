@@ -22,3 +22,6 @@ Path = [1,2,3,4]
 the settings table ontop is for debugging purposes and will turnoff the printing and visualisation of paThor.
 
 please do not claim as your own.
+
+StarfallEx is required.
+https://github.com/thegrb93/StarfallEx
